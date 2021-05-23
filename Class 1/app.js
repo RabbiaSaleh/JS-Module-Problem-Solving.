@@ -1,4 +1,7 @@
-let name=rabbia
+function printVariable(name)
 {
-    console.log("rabbia:");
+    let name1 = name;
+    console.log(name1);
 }
+   
+
